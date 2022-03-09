@@ -1,0 +1,10 @@
+.hidden-code {
+    display: block;
+    position: relative;
+}
+.hidden-code__button {
+    padding: 15px 30px;
+    display: inline-block;
+    cursor: pointer;
+    pointer-events: auto;
+}
